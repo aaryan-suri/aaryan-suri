@@ -2,15 +2,15 @@
 
 CompE @ University of Maryland (Class of '28) · QUEST Honors · incoming Capital One AEIP.
 
-I build infra and dev tools, mostly in Python and C. Currently interested in distributed systems, quantitative finance, and anything where correctness matters more than cleverness.
+I build infra and dev tools, mostly in Python and C. Currently interested in distributed systems, product management, and anything where correctness matters more than cleverness.
 
 ---
 
 #### What I'm working on
 
-- **[QuantCore](https://github.com/aaryan-suri/tradingRed)** — quant backtesting platform with walk-forward validation. Honest finding: momentum shows no robust risk-adjusted edge on S&P 500.
+- **[The Diamondback](https://housing.dbknews.com)**  — infra + tools for UMD's student newspaper. Led an AWS cost optimization effort; built a student housing search tool used by 30,000 students/month.
 - **[PostPilot](https://github.com/aaryan-suri/postpilot)** — social automation for student orgs, real Google OAuth.
-- **The Diamondback** — infra + tools for UMD's student newspaper. Led an AWS cost optimization effort; built a student housing search tool used by 30,000 students/month.
+- **[QuantCore](https://github.com/aaryan-suri/tradingRed)** — quant backtesting platform with walk-forward validation. Honest finding: momentum shows no robust risk-adjusted edge on S&P 500.
 
 #### Stack
 
