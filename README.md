@@ -2,7 +2,7 @@
 
 CompE @ University of Maryland (Class of '28) · QUEST Honors · incoming Capital One AEIP.
 
-I build infra and dev tools, mostly in Python and C. Currently interested in distributed systems, product management, and anything where correctness matters more than cleverness.
+I build infra and dev tools, mostly in Python and C. Currently interested in distributed systems, product management, and anything clever.
 
 ---
 
