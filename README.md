@@ -16,11 +16,6 @@ I build infra and dev tools, mostly in Python and C. Currently interested in dis
 
 Python · C · Java · TypeScript · AWS · FastAPI · PostgreSQL · MATLAB
 
-#### Stats
-
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan-suri&show_icons=true&hide_border=true&theme=transparent&hide=issues)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-suri&layout=compact&hide_border=true&theme=transparent)
-
 #### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/aaryan-suri) · [Portfolio](https://aaryan-portfolio-blue.vercel.app) · [Email](mailto:aaryansuri2013@gmail.com)
