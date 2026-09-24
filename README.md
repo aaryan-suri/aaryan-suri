@@ -1,4 +1,4 @@
-### Hi, I'm Aaryan 👋
+### Hi, I'm Aaryan 
 
 CompE @ University of Maryland (Class of '28) · QUEST Honors · incoming Capital One AEIP.
 
