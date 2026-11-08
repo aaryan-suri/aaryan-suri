@@ -1,6 +1,6 @@
 ### Hi, I'm Aaryan 
 
-CompE @ University of Maryland (Class of '28) · QUEST Honors · incoming Capital One AEIP.
+CompE @ University of Maryland (Class of '28) · QUEST Honors
 
 I build infra and dev tools, mostly in Python and C. Currently interested in distributed systems, product management, and anything clever.
 
